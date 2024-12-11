@@ -6,6 +6,7 @@
    determining and plotting fiber continuity across the tissue.
 
    Conceptualized by: Alessandra Carriero
+   
    Written by: Asier Munoz, Anxhela Docaj, Julen Fernandez
 
    Please refer to the FiberO user manual for installation and operation instructions
