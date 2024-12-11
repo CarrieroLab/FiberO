@@ -14,3 +14,4 @@
    When used please reference:
 
    Muñoz. A., A. Docaj, J. Fernandez, A. Carriero. FiberO for an automated quantitative analysis of fibers orientation and organization in biological fibrous tissues. Frontiers in Bioengineering and Biotechnology, 2024; in press
+   doi: 10.3389/fbioe.2024.1497837
